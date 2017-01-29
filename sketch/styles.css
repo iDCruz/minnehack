@@ -3,6 +3,7 @@
     background: green;
     max-width: 300px;
     border-radius: 50%;
+    margin: 20px;
 }
 
 #circle_inner
