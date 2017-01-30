@@ -1,0 +1,19 @@
+{
+  "name": "minnehack",
+  "version": "1.0.0",
+  "description": "hardware hack",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iDcruz/minnehack.git"
+  },
+  "author": "David and Diego",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iDcruz/minnehack/issues"
+  },
+  "homepage": "https://github.com/iDcruz/minnehack#readme"
+}
