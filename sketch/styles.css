@@ -1,0 +1,14 @@
+#gradient
+{
+    background: green;
+    max-width: 300px;
+    border-radius: 50%;
+    margin: 20px;
+}
+
+#circle_inner
+{
+    background: white;
+    max-width: 200px;
+    border-radius: 50%;
+}
